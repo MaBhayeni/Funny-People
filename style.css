@@ -1,0 +1,25 @@
+body{ 
+    margin: 0;
+    padding: 0;  
+    width: 30%;                                           
+    background-color: white;	    
+ }
+
+#right-colomn{
+   width: 20px;
+   float: left;
+   background-color:aqua;     
+}
+#right-colomn img{
+     width:80px;
+     length: 60px;
+     margin-left:100px;
+     margin-top:30px;
+}
+
+img#logo{
+    position:fixed;
+    width:100px;
+    botton:20px;
+    right:10px;
+}
